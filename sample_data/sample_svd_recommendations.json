@@ -1,0 +1,27 @@
+[
+    {
+        "user_id": 14,
+        "worker_id": 135,
+        "predicted_rating": 4.43
+    },
+    {
+        "user_id": 28,
+        "worker_id": 126,
+        "predicted_rating": 4.42
+    },
+    {
+        "user_id": 33,
+        "worker_id": 102,
+        "predicted_rating": 4.34
+    },
+    {
+        "user_id": 38,
+        "worker_id": 126,
+        "predicted_rating": 4.33
+    },
+    {
+        "user_id": 2,
+        "worker_id": 129,
+        "predicted_rating": 4.32
+    }
+]

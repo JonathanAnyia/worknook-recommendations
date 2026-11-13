@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": 1,
+        "worker_id": 102,
+        "predicted_rating": 3.92,
+        "service_type": "Cleaning"
+    },
+    {
+        "user_id": 1,
+        "worker_id": 103,
+        "predicted_rating": 3.92,
+        "service_type": "Electrical"
+    },
+    {
+        "user_id": 1,
+        "worker_id": 104,
+        "predicted_rating": 3.92,
+        "service_type": "Gardening"
+    },
+    {
+        "user_id": 1,
+        "worker_id": 105,
+        "predicted_rating": 3.92,
+        "service_type": "Cleaning"
+    },
+    {
+        "user_id": 1,
+        "worker_id": 106,
+        "predicted_rating": 3.92,
+        "service_type": "Carpentry"
+    }
+]

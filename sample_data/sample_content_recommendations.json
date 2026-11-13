@@ -1,0 +1,22 @@
+[
+    {
+        "worker_id": 101,
+        "service_type": "Plumbing"
+    },
+    {
+        "worker_id": 132,
+        "service_type": "Plumbing"
+    },
+    {
+        "worker_id": 125,
+        "service_type": "Plumbing"
+    },
+    {
+        "worker_id": 113,
+        "service_type": "Plumbing"
+    },
+    {
+        "worker_id": 118,
+        "service_type": "Plumbing"
+    }
+]
